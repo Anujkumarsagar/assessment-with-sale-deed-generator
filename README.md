@@ -24,3 +24,6 @@ window.print()
 - 💼 [LinkedIn](https://www.linkedin.com/in/anujkumarsagar/)  
 - 🧑‍💻 [GitHub](https://github.com/anujkumarsagar)
 
+<iframe src="Assesment.pdf" width="100%" height="500px">
+  <p>This browser does not support PDFs. You can <a href="Assesment.pdf">download the PDF</a>.</p>
+</iframe>
